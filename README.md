@@ -2,7 +2,7 @@
 - 👀 I’m interested in being the best gem. 
 - 🌱 I’m currently learning :Ruby, Ruby on rails and much more.
 - 💞️ I’m looking to collaborate on :I'm fairly new. But am open for small projects.
-- 📫 How to reach me : ananya.p.havinal@gmail.com
+- 📫 How to reach me : avagadi15@gmail.com
 
 <!---
 AnanyaAgadi/AnanyaAgadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
